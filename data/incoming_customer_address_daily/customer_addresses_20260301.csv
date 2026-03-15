@@ -1,0 +1,31 @@
+id;customer_id;address;city;province;created_at
+1;1;Jalan Mawar V, RT 1/RW 2;Bekasi;Jawa Barat;2026-03-01 14:24:40.012
+2;3;Jl Ababil Indah;Tangerang Selatan;Jawa Barat;2026-03-01 14:24:40.012
+3;4;Jl. Kemang Raya 1 No 3;JAKARTA PUSAT;DKI JAKARTA;2026-03-01 14:24:40.012
+4;6;Astra Tower Jalan Yos Sudarso 12;Jakarta Utara;DKI Jakarta;2026-03-01 14:24:40.012
+5;7;Jl Melati 3 No 12;Depok;Jawa Barat;2026-03-01 14:24:40.012
+6;8;Jl Anggrek Raya Blok B2;Bekasi;JAWA BARAT;2026-03-01 14:24:40.012
+7;9;Jl Teratai Indah No 9;Bandung;Jawa Barat;2026-03-01 14:24:40.012
+8;10;Jl Cendana IV No 14;Bogor;Jawa Barat;2026-03-01 14:24:40.012
+9;11;Jl Merpati Putih 7;Tangerang;Banten;2026-03-01 14:24:40.012
+10;12;Jl Kenanga 1 Blok A;Bekasi;Jawa Barat;2026-03-01 14:24:40.012
+11;13;Jl Pahlawan No 10;Surabaya;Jawa Timur;2026-03-01 14:24:40.012
+12;14;Jl Diponegoro 45;Semarang;JAWA TENGAH;2026-03-01 14:24:40.012
+13;15;Jl Ahmad Yani 88;Medan;Sumatera Utara;2026-03-01 14:24:40.012
+14;16;Jl Mangga Besar 21;Jakarta Barat;DKI Jakarta;2026-03-01 14:24:40.012
+15;17;Jl Danau Toba 17;Medan;SUMATERA UTARA;2026-03-01 14:24:40.012
+16;18;Jl Veteran No 5;Makassar;Sulawesi Selatan;2026-03-01 14:24:40.012
+17;19;Jl Sultan Agung 12;Yogyakarta;DI Yogyakarta;2026-03-01 14:24:40.012
+18;20;Jl Sisingamangaraja 30;Medan;Sumatera Utara;2026-03-01 14:24:40.012
+19;21;Jl Gajah Mada 14;Pontianak;Kalimantan Barat;2026-03-01 14:24:40.012
+20;22;Jl Kapten Tendean 8;Balikpapan;Kalimantan Timur;2026-03-01 14:24:40.012
+21;23;Jl Ahmad Dahlan 6;Surakarta;Jawa Tengah;2026-03-01 14:24:40.012
+22;24;Jl Rungkut Asri Blok C;Surabaya;Jawa Timur;2026-03-01 14:24:40.012
+23;25;Jl Gatot Subroto 101;Bandung;Jawa Barat;2026-03-01 14:24:40.012
+24;26;Jl Imam Bonjol 33;Denpasar;Bali;2026-03-01 14:24:40.012
+25;27;Jl Veteran Selatan 9;Makassar;Sulawesi Selatan;2026-03-01 14:24:40.012
+26;28;Jl Dipati Ukur 50;Bandung;JAWA BARAT;2026-03-01 14:24:40.012
+27;29;Jl Sudirman Kav 22;Jakarta Selatan;DKI Jakarta;2026-03-01 14:24:40.012
+28;30;Jl Dr Wahidin 11;Semarang;Jawa Tengah;2026-03-01 14:24:40.012
+29;12;Jl Ahmad Yani 5;Bekasi;Jawa Barat;2026-03-01 14:24:40.012
+30;18;Jl S Parman 18;Pontianak;KALIMANTAN BARAT;2026-03-01 14:24:40.012
